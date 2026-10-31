@@ -1,22 +1,13 @@
-<div align="center">
+# HalisAI
 
-# 🌐 Welcome to Halis
+**Toward AGI.**
 
-**Toward AGI through Recursive Self-Improvement (RSI)**
-
-
-</div>
+HalisAI is a technology organization focused on researching and developing **Artificial General Intelligence (AGI)**.
 
 ---
 
-## ✨ About
+## Introduction
 
-Halis is a research and development organization focused on **AI/ML**, with the long-term goal of **AGI** (Artificial General Intelligence): systems that can learn, reason, and solve problems in a general way, rather than excelling only at isolated tasks.
+HalisAI pursues a long-term goal: to build an intelligence system capable of learning, reasoning, adapting, and solving problems across a broad scope — not limited to a single task or domain.
 
-Halis pursues the path of **RSI** (Recursive Self-Improvement): building AI systems that can propose improvements to themselves, validate them through independent evaluation, and apply only the changes that pass. The entire process takes place in a safe, transparent, and controllable environment.
-
----
-
-## 🧭 Vision
-
-> An AI system that doesn't just learn from data, but also learns to **improve how it learns**.
+We believe AGI will be the next turning point for humanity. Therefore, HalisAI devotes its full resources to foundational research, methods, and systems aimed at AGI.
